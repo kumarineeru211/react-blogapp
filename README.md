@@ -1,4 +1,17 @@
-# React + Vite
+# Reactjs Blog App
+# Project Description 
+A blog application using React.js. The application should allow users to add, delete, and update. You should use state management, components, and props effectively to accomplish this task.
+# Live_link:https://cerulean-dieffenbachia-efbaef.netlify.app
+
+
+# Installation
+Before start use npm package manager to install dependencies.
+
+npm install
+Usage
+Use npm to start project
+
+npm run dev
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
