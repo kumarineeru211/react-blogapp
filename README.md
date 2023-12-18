@@ -7,11 +7,11 @@ A blog application using React.js. The application should allow users to add, de
 # Installation
 Before start use npm package manager to install dependencies.
 
-npm install
-Usage
-Use npm to start project
+# npm install
 
-npm run dev
+# Use npm to start project
+
+# npm run dev
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
